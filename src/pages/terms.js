@@ -6,7 +6,7 @@ const Terms = () => (
     <Helmet title="Terms" />
     <h1>Terms</h1>
     <p>
-      Lorem ipsizzle dolizzle sit amizzle, fo shizzle my nizzle adipiscing
+      foo Lorem ipsizzle dolizzle sit amizzle, fo shizzle my nizzle adipiscing
       elizzle. Pizzle mah nizzle velizzle, owned volutpizzle, mammasay mammasa
       mamma oo sa quizzle, my shizz uhuh ... yih!, shit. Pellentesque nizzle for
       sure. erizzle. Cool shiznit dolizzle dapibizzle turpis tempizzle tempor.
